@@ -208,7 +208,7 @@ The project repository is structured as follows:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/kishlayjeet/Music-Store-Data-Analysis.git
+   https://github.com/Richa1894/music-store-data-analysis.git
    ```
 
 2. Import the dataset into your SQL database management system.
